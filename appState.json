@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "induCommitTest233.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 16
+          "lineNumber": 3,
+          "column": 13
         },
         "config": {
           "runtime": "nodejs14.x",
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1628522851452
+    "lastSave": 1628523163559
   },
   "VCS_STATE": {
     "provider": "GitHub",
