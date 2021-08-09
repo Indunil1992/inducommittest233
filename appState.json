@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "6638f26c-8445-4e12-b24a-b12c7894cda4": {
+        "id": "6638f26c-8445-4e12-b24a-b12c7894cda4",
+        "parent": null,
+        "name": "induCommitTest233.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "induCommitTest233.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 16
+        },
+        "config": {
+          "runtime": "nodejs14.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "induCommitTest233"
+        },
+        "triggers": [],
+        "lastUpdated": 1628522833944
+      }
+    },
+    "openFiles": [
+      "6638f26c-8445-4e12-b24a-b12c7894cda4"
+    ],
+    "currentFileId": "6638f26c-8445-4e12-b24a-b12c7894cda4",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.9.3",
+    "projectName": "induCommitTest233",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1628522851452
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "inducommittest233",
+      "url": "https://github.com/Indunil1992/inducommittest233"
+    }
+  }
+}
